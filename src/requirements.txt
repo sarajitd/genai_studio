@@ -1,0 +1,7 @@
+transformers
+datasets
+langchain
+faiss-cpu
+gradio
+streamlit
+sentence-transformers

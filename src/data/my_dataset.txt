@@ -1,0 +1,29 @@
+What is artificial intelligence?
+Artificial intelligence (AI) refers to the simulation of human intelligence in machines.
+
+How does deep learning work?
+Deep learning is a subset of AI that uses neural networks to process data and learn representations.
+
+Explain Retrieval-Augmented Generation (RAG).
+RAG enhances language models by retrieving relevant external data before generating responses.
+
+What is the difference between GPT-3 and GPT-4?
+GPT-4 is an improved version of GPT-3, offering better reasoning, factual accuracy, and more nuanced responses.
+
+How do transformers work in NLP?
+Transformers use self-attention mechanisms to process words in context, making them highly effective for language tasks.
+
+What is fine-tuning in AI models?
+Fine-tuning is the process of adjusting a pre-trained model on a specific dataset to improve performance on a particular task.
+
+What is FAISS used for?
+FAISS (Facebook AI Similarity Search) is a library that helps search large-scale vector databases efficiently.
+
+How does tokenization work in NLP?
+Tokenization splits text into smaller units (tokens) for easier processing by machine learning models.
+
+What is the role of embeddings in AI?
+Embeddings convert words or sentences into numerical representations, making it easier for AI models to process language.
+
+What is LangChain, and how does it help in AI applications?
+LangChain is a framework that simplifies building AI applications that use **retrieval-based** processing and external knowledge sources.
